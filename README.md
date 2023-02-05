@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![](images/image-qr-code.png
+![](images/image-qr-code.png)
 
 ## Welcome! 👋
 
